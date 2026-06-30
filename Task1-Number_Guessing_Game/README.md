@@ -41,4 +41,3 @@ Enter maximum number: 50
 Enter attempts: 5
 ```
 
-Happy Coding! 🚀
